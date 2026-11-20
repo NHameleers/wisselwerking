@@ -1,4 +1,4 @@
-# Sideline Subs
+# Wisselwerking
 
 Football substitution tracker for the sideline: drag players between pitch and bench, track playing time per player, keep the score and scorers, and download the match as an Excel file.
 

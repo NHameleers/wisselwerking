@@ -1,7 +1,7 @@
-// Sideline Subs service worker: keeps a copy of the app on the phone so it opens without a connection.
+// Wisselwerking service worker: keeps a copy of the app on the phone so it opens without a connection.
 // Strategy: answer from the saved copy at once, and refresh that copy in the background when online.
 // A new version you upload therefore shows up the second time the app is opened.
-const CACHE = "sideline-subs-v1";
+const CACHE = "wisselwerking-v1";
 const ASSETS = [
   "./",
   "index.html",

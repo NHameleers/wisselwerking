@@ -1,6 +1,6 @@
 {
-  "name": "Sideline Subs",
-  "short_name": "Sideline Subs",
+  "name": "Wisselwerking",
+  "short_name": "Wisselwerking",
   "description": "Football substitution tracker with playing time per player.",
   "start_url": ".",
   "scope": ".",
